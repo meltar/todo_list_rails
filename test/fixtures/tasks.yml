@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  description: MyString
+  deadline: 2013-06-24
+  complete: false
+
+two:
+  description: MyString
+  deadline: 2013-06-24
+  complete: false
